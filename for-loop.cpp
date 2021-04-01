@@ -2,6 +2,9 @@
 cin >> n;
 n marta qator chiziladi
 
+cout << " ";
+cout << "*";
+
     *
    ***
   *****
